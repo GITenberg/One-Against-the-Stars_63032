@@ -1,5 +1,8 @@
 _repo: One-Against-the-Stars_63032
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63032-h/images/cover.jpg
 creator:
   author:
     agent_name: Garson, Bill
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '33727'
     url: http://www.gutenberg.org/2009/agents/33727
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63032#One-Against-the-Stars
 gutenberg_issued: '2020-08-24'
 gutenberg_type: Text
 identifiers:
